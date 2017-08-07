@@ -22,3 +22,8 @@ In order to run BachChain locally on your computer, you need Node version 6 or a
 4. Run `npm start` to deploy BachChain locally on your Machine
 5. Navigate to `http://localhost:3000/` in your internet browser
 6. Begin your BachChain experience!
+
+<p>You can also access this through a deployed instance:
+<a href="http://bachchain.mybluemix.net">Bachchain</a>
+</p>
+
